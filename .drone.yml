@@ -1,0 +1,8 @@
+kind: pipeline
+name: default
+steps:
+- name: Deploy Single
+  image: node
+  environment:
+  commands:
+  - npm run build
