@@ -1,6 +1,7 @@
 # starwars-names
 
 [![travis build](https://img.shields.io/travis/beathorst/jr-starwars-names.svg?style=flat-square)](https://travis-ci.org/beathorst/jr-starwars-names)
+[![Build Status](https://cloud.drone.io/api/badges/beathorst/jr-starwars-names/status.svg)](https://cloud.drone.io/beathorst/jr-starwars-names)
 [![codecov coverage](https://img.shields.io/codecov/c/github/beathorst/jr-starwars-names.svg?style=flat-square)](https://codecov.io/github/beathorst/jr-starwars-names)
 [![version](https://img.shields.io/npm/v/jr-starwars-names.svg?style=flat-square)](http://npm.im/jr-starwars-names)
 [![downloads](https://img.shields.io/npm/dm/jr-starwars-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=jr-starwars-names&from=2015-08-01)
